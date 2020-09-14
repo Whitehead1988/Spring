@@ -1,0 +1,7 @@
+app:
+  datasource:
+    jdbcUrl: jdbc:postgresql://localhost:5555/booksdb
+    username: postgres
+    password: password
+    pool-size: 30
+
